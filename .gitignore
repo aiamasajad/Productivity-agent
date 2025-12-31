@@ -1,0 +1,20 @@
+# --- Security & Secrets ---
+credentials.json
+token.json
+.env
+
+# --- Python Environment ---
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Project Specific ---
+*.log
